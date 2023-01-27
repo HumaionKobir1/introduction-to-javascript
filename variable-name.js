@@ -18,3 +18,6 @@ var user-name = "Humaion Kobir"
 
 
 //How to use long names
+var user_name ="Humaion Kobir";
+var userHomeAddress = "Dhaka Bangladesh";
+var UserHomeAddress = "Rajibpur Kiurigram";
