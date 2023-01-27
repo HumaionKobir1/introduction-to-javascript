@@ -16,3 +16,9 @@ console.log("My first javascript");
 
 var myName = "Humaion Kobir";
 console.log(myName);
+
+
+//Boolean
+var serious = true;
+var isFullMaarks = true;
+var isSingle = false;
