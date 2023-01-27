@@ -48,3 +48,8 @@ love = love - 1;
 // -- means removing 1 to the existing value
 love--;
 console.log(love);
+
+var age5 = 21;
+age5 += 8;
+console.log(age5);
+console.log(17%5);
